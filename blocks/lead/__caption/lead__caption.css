@@ -1,7 +1,8 @@
-.lead__caption{
+.lead__caption {
     margin: 8px 0 0;
     padding: 0;
     /* Шрифт */
+    font-weight: normal;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
@@ -17,5 +18,9 @@
 @media screen and (max-width: 767px) {
     .lead__caption {
         margin-left: 16px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 14px;
     }
 }

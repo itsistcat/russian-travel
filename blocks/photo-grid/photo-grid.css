@@ -39,6 +39,7 @@
         grid-template-columns: minmax(100px, 1fr);
         width: calc(100% - 32px);
         grid-gap: 12px;
+        margin-top: 64px;
         margin-bottom: 64px;
     }
 }
