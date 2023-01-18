@@ -16,6 +16,7 @@
     .place {
         grid-template-columns: 340px 2fr;
         row-gap: 48px;
+        margin-bottom: 73px;
     }
   }
 
@@ -28,7 +29,7 @@
     }
 
     .place:last-of-type{
-        margin: 66px 0;
+        margin-bottom: 66px;
     }
   }
 
